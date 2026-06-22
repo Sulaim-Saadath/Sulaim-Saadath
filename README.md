@@ -62,8 +62,9 @@ Brief description of your project.
 ### 🔹 Project 2
 Brief description of your project.
 
-### 🔹 Project 3
-Brief description of your project.
+### 🔹 TaskBuddy
+TaskBuddy is a modern task management application developed with React and Vite. The project enables users to create, manage, and track their tasks through a clean and user-friendly interface. It demonstrates frontend development concepts such as component-based architecture, state management, event handling, and responsive design while delivering a practical productivity solution.
+Hosted: https://sulaim-saadath.github.io/TaskBuddy/
 
 ---
 
