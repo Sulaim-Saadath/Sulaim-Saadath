@@ -101,7 +101,7 @@ while(!success){
 
 - GitHub: https://github.com/Sulaim-Saadath
 - LinkedIn: www.linkedin.com/in/a-sulaim-saadath-81479229a
-- Email: Add Your Email
+- Email: avoor2005@gmail.com
 
 ---
 
