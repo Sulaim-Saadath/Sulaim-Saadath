@@ -100,7 +100,7 @@ while(!success){
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Sulaim-Saadath
-- LinkedIn: Add Your LinkedIn URL
+- LinkedIn: www.linkedin.com/in/a-sulaim-saadath-81479229a
 - Email: Add Your Email
 
 ---
